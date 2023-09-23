@@ -17,11 +17,13 @@ export const find = async (id: string): Promise<Product | null> => {
 export const create = async (
   title: string,
   description: string,
+  price: number,
 ): Promise<Product> => {
   const newProduct = await prisma.product.create({
     data: {
       title: title,
       description: description,
+      price: price,
     },
   });
 
