@@ -3,22 +3,24 @@ import { prisma } from "../infrastructure/db";
 import { Ok, Err, Result } from "ts-results";
 import bcrypt from "bcrypt";
 
-export const findAccountByEmail = async (
-  email: string,
-): Promise<Account | null> => {
+export const findByEmail = async (email: string): Promise<Account | null> => {
   const account = await prisma.account.findFirst({
     where: { email: email },
   });
 
+  if (!account) {
+    return null;
+  }
+
   return account;
 };
 
-export const createAccount = async (
+export const create = async (
   email: string,
   password: string,
   role = "USER",
 ): Promise<Result<Account, Error>> => {
-  const existingAccount = await findAccountByEmail(email);
+  const existingAccount = await findByEmail(email);
 
   if (existingAccount !== null) {
     return Err(new Error("Account already exists"));

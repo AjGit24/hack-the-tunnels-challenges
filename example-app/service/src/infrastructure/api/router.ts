@@ -1,5 +1,5 @@
 import express, { Request, Response } from "express";
-import { AccountRouter, ProductRouter } from "./routes";
+import { AccountRouter, OrderRouter, ProductRouter } from "./routes";
 
 const router = express.Router();
 
@@ -11,6 +11,7 @@ const getAPIRoot = async (_: Request, response: Response) => {
 
 router.get("/", getAPIRoot);
 router.use("/", AccountRouter);
+router.use("/orders", OrderRouter);
 router.use("/products", ProductRouter);
 
 export default router;

@@ -1,15 +1,15 @@
-import { AccountService } from ".";
 import { Ok, Err, Result } from "ts-results";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
+import { AccountService } from "../services";
 
 export const login = async (
   email: string,
   password: string,
 ): Promise<Result<string, Error>> => {
-  const account = await AccountService.findAccountByEmail(email);
+  const account = await AccountService.findByEmail(email);
 
-  if (!account) {
+  if (account === null) {
     return Err(new Error("Account not found"));
   }
 

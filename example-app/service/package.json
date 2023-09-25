@@ -14,7 +14,8 @@
     "format": "prettier --write '**/*.{css,scss,html,ts}'"
   },
   "prisma": {
-    "schema": "src/infrastructure/db/schema.prisma"
+    "schema": "src/infrastructure/db/schema.prisma",
+    "seed": "ts-node src/infrastructure/db/seed.ts"
   },
   "keywords": [],
   "author": "Carleton Computer Science Society",
