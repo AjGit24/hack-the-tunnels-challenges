@@ -51,8 +51,24 @@ npm install
 Create a copy of the `.env.sample` file. and rename the file's name to `.env`.
 Afterward, copy and paste the `.env` file that is in your service folder into the client folder
 
+4. Add the Seed Data
+
+```
+npx prisma db seed
+```
+
 4. Run the service
 
 ```
 npm run dev
+```
+
+## More Useful Commands
+
+## Open Prisma Studio
+
+[Prisma Studio](https://www.prisma.io/studio) is the easiest way to explore and manipulate your data in all of your Prisma projects.
+
+```
+npx prisma studio
 ```

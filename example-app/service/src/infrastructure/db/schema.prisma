@@ -17,7 +17,6 @@ model Product {
   price       Float
   imageUrl    String?
   lineItems   LineItem[]
-  reviews     Review[]
 }
 
 model Order {
@@ -42,14 +41,6 @@ model LineItem {
   productId Int
   order     Order   @relation(fields: [orderId], references: [id])
   orderId   Int
-}
-
-model Review {
-  id        Int     @id @default(autoincrement())
-  rating    Int
-  text      String?
-  product   Product @relation(fields: [productId], references: [id])
-  productId Int
 }
 
 model Account {

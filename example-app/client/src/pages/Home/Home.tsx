@@ -27,6 +27,8 @@ function Home() {
               <ProductPreviewCard
                 title={product.title}
                 description={product.description}
+                price={product.price}
+                imageUrl={product.imageUrl}
                 key={`${product.id}`}
               />
             </Link>
