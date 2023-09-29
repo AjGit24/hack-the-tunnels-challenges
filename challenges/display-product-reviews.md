@@ -7,6 +7,7 @@ tags:
 - react
 dependencies:
 - add-reviews-to-product-endpoint
+unlocks:
 ---
 
 ## Description:
