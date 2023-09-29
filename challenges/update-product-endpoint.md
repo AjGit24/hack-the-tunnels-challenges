@@ -2,10 +2,10 @@
 title: "Update Product Endpoint"
 points: 3
 difficulty: beginner-friendly
-tags: 
-- backend
-- express
-- authorization
+tags:
+  - backend
+  - express
+  - authorization
 dependencies:
 unlocks:
 ---
@@ -15,6 +15,7 @@ unlocks:
 Create an admin only accesible endpoint for updating one or many attributes of a product. (`PUT /products/:id`)
 
 You will need to edit the following files:
+
 - `service/src/infrastructure/api/routes/products.ts`
 - `service/src/services/Product.ts`
 
@@ -38,7 +39,6 @@ Ex: Will just update the product's title
 }
 ```
 
-
 Ex: Will update both the product's description and price
 
 ```
@@ -46,3 +46,4 @@ Ex: Will update both the product's description and price
 	"description": "test",
 	"price": 1.99
 }
+```

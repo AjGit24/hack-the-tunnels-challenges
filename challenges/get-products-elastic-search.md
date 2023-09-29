@@ -2,12 +2,12 @@
 title: "Get Products Elastic Search"
 points: 13
 difficulty: complex
-tags: 
-- backend
-- elastic-search
-- lucene
+tags:
+  - backend
+  - elastic-search
+  - lucene
 dependencies:
-- get-products-search-term
+  - get-products-search-term
 unlocks:
 ---
 

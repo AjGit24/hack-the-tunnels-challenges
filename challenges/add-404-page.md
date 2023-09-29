@@ -2,10 +2,10 @@
 title: "Add 404 Page"
 points: 2
 difficulty: beginner-friendly
-tags: 
-- frontend
-- react
-- start-here
+tags:
+  - frontend
+  - react
+  - start-here
 dependencies:
 unlocks:
 ---

@@ -2,14 +2,14 @@
 title: "Add Reviews Table"
 points: 3
 difficulty: beginner-friendly
-tags: 
-- backend
-- prisma
-- databases
+tags:
+  - backend
+  - prisma
+  - databases
 dependencies:
 unlocks:
-- add-reviews-to-product-endpoint
-- create-review-endpoint
+  - add-reviews-to-product-endpoint
+  - create-review-endpoint
 ---
 
 ## Description:

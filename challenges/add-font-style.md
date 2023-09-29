@@ -2,10 +2,10 @@
 title: "Update Font Style"
 points: 1
 difficulty: beginner-friendly
-tags: 
-- frontend
-- css
-- start-here
+tags:
+  - frontend
+  - css
+  - start-here
 dependencies:
 unlocks:
 ---

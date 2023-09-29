@@ -2,24 +2,24 @@
 title: "Add Login Page Form"
 points: 3
 difficulty: beginner-friendly
-tags: 
-- frontend
-- react
-- css
-- start-here
+tags:
+  - frontend
+  - react
+  - css
+  - start-here
 dependencies:
-unlocks: 
-- add-sign-up-page-form
-- add-google-sso
+unlocks:
+  - add-sign-up-page-form
+  - add-google-sso
 ---
 
 ## Description:
 
-Checkout: ```client/src/pages/Login/Login.tsx```
+Checkout: `client/src/pages/Login/Login.tsx`
 
 Right now the login page does not have anyway to input the desired email and password of the the user logging in.
 
-Create an input box for email and and [input](https://www.w3schools.com/tags/tag_input.asp) box for password. 
+Create an input box for email and and [input](https://www.w3schools.com/tags/tag_input.asp) box for password.
 
 Create a login button that when clicked fires the `attemptLogin` function.
 

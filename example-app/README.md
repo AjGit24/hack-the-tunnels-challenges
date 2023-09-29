@@ -30,7 +30,6 @@ npm install
 
 Create a copy of the `.env.sample` file and rename the file's name to `.env`.
 
-
 4. Run the client
 
 ```
@@ -101,7 +100,6 @@ npm run dev
   - `imageUrl`: An optional string for the product's image URL.
   - `lineItems`: A relation to the "LineItem" model, indicating that a product can be associated with multiple line items in orders.
 
-
 ## Order
 
 - Represents an order with the following fields:
@@ -120,7 +118,6 @@ npm run dev
   - `productId`: An integer representing the product's ID.
   - `order`: A relation to the "Order" model, specifying the order to which the line item belongs.
   - `orderId`: An integer representing the order's ID.
-
 
 ## Customer
 

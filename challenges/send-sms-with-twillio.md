@@ -2,10 +2,10 @@
 title: "Send SMS With Twillio"
 points: 13
 difficulty: complex
-tags: 
-- backend
-- sms
-- twillio
+tags:
+  - backend
+  - sms
+  - twillio
 dependencies:
 unlocks:
 ---
@@ -14,7 +14,7 @@ unlocks:
 
 Utilize [Twillio](https://www.twilio.com/en-us) to send sms messages to customers when an order is created.
 
-*Note: we don't currently take phone number as a part of the create order request body, so feel free to hard the desired phone number*
+_Note: we don't currently take phone number as a part of the create order request body, so feel free to hard the desired phone number_
 
 Add a new `sms` folder within the `service/src/infrastructure` folder that contains any code you write relating to sending phone messages.
 

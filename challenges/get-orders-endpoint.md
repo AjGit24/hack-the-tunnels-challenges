@@ -2,13 +2,13 @@
 title: "Get Orders Endpoint"
 points: 3
 difficulty: medium
-tags: 
-- backend
-- express
-- authorization
+tags:
+  - backend
+  - express
+  - authorization
 dependencies:
 unlocks:
-- add-orders-admin-page
+  - add-orders-admin-page
 ---
 
 ## Description:
@@ -16,6 +16,7 @@ unlocks:
 Create an admin only accesible endpoint for requesting multiple orders. (`GET /orders`)
 
 You will need to edit the following files:
+
 - `service/src/infrastructure/api/routes/orders.ts`
 - `service/src/services/Order.ts`
 

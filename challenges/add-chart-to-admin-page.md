@@ -2,9 +2,9 @@
 title: "Add Chart To Admin Page"
 points: 5
 difficulty: medium
-tags: 
-- frontend
-- css
+tags:
+  - frontend
+  - css
 dependencies:
 unlocks:
 ---
@@ -22,9 +22,8 @@ Some possible ideas for charts could be:
 - Revenue over time
 - User activity over time
 
-You can use an existing endpoint or create a new endpoint to expose the neccesary data you want for your chart. 
+You can use an existing endpoint or create a new endpoint to expose the neccesary data you want for your chart.
 
 ## Acceptance Criteria:
 
 The participant has utilized Chart.js in some useful way.
-

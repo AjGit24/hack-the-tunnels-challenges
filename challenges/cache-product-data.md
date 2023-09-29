@@ -2,20 +2,20 @@
 title: "Cache Product Data"
 points: 8
 difficulty: complex
-tags: 
-- backend
-- express
-- cache
-- redis
-- key-value
+tags:
+  - backend
+  - express
+  - cache
+  - redis
+  - key-value
 dependencies:
-- add-reviews-to-product-endpoint
+  - add-reviews-to-product-endpoint
 unlocks:
 ---
 
 ## Description:
 
-Each time the `GET /products/:id` endpoint is used, we have to re-query for a product and all it's associated reviews. To avoid having duplicate database queries and to improve the response time of our API, we should cache  the product and it's reviews together as a document in a key-value store.
+Each time the `GET /products/:id` endpoint is used, we have to re-query for a product and all it's associated reviews. To avoid having duplicate database queries and to improve the response time of our API, we should cache the product and it's reviews together as a document in a key-value store.
 
 Some popular key-value stores include [Redis](https://redis.io/) and [Memcached](https://memcached.org/). You will need to install and setup one of these to complete this challenge.
 
@@ -28,4 +28,3 @@ If the product is not in the key-value store, complete the lookup via the databa
 ## Acceptance Criteria:
 
 The user has added setup a connection with the cache of their choice and has modfied the product service to cache products and their reviews together.
-

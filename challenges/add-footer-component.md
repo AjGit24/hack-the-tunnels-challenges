@@ -2,11 +2,11 @@
 title: "Add Footer Component"
 points: 2
 difficulty: beginner-friendly
-tags: 
-- frontend
-- react
-- css
-- start-here
+tags:
+  - frontend
+  - react
+  - css
+  - start-here
 dependencies:
 unlocks:
 ---
@@ -19,5 +19,5 @@ Update the footer component to display the following text "© 2023 Carleton Univ
 
 ## Acceptance Criteria:
 
-- Text is currently shown and is centered 
+- Text is currently shown and is centered
 - There is added padding around the text to make the footer take up a bit more space

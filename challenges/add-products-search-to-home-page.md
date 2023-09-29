@@ -2,13 +2,13 @@
 title: "Add Products Search To Home Page"
 points: 5
 difficulty: medium
-tags: 
-- frontend
-- css
-- react
+tags:
+  - frontend
+  - css
+  - react
 dependencies:
-- add-search-bar-component
-- get-products-search-term
+  - add-search-bar-component
+  - get-products-search-term
 unlocks:
 ---
 
@@ -25,4 +25,3 @@ After the ServiceAPI responds back with search results, set the products being d
 ## Acceptance Criteria:
 
 When the user types in the `SearchBar` component's input, the products displayed on the home page update to match the user's desired search term.
-

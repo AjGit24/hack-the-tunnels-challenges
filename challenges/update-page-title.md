@@ -2,10 +2,10 @@
 title: "Update Page Title"
 points: 1
 difficulty: beginner-friendly
-tags: 
-- frontend
-- css
-- start-here
+tags:
+  - frontend
+  - css
+  - start-here
 dependencies:
 unlocks:
 ---

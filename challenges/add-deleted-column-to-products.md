@@ -2,18 +2,18 @@
 title: "Add Deleted Column To Products"
 points: 2
 difficulty: beginner-friendly
-tags: 
-- backend
-- databases
-- prisma
+tags:
+  - backend
+  - databases
+  - prisma
 dependencies:
 unlocks:
-- delete-product-endpoint
+  - delete-product-endpoint
 ---
 
 ## Description:
 
-Add a new boolean column named `deleted` on the products table. 
+Add a new boolean column named `deleted` on the products table.
 
 This column will be used to build a ["Soft Delete"](https://www.jmix.io/blog/to-delete-or-to-soft-delete-that-is-the-question/) mechanism for products.
 

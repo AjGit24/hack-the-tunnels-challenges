@@ -2,9 +2,9 @@
 title: "Add GraphQL API"
 points: 13
 difficulty: complex
-tags: 
-- backend
-- graphql
+tags:
+  - backend
+  - graphql
 dependencies:
 unlocks:
 ---
@@ -21,4 +21,4 @@ Be sure to reuse the existing services code within the `service/src/services` fo
 
 ## Acceptance Criteria:
 
-A new endpoint `POST /api/graphql` is exposed with atleast one query and one mutation accessible. 
+A new endpoint `POST /api/graphql` is exposed with atleast one query and one mutation accessible.

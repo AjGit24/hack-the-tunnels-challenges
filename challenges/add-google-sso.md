@@ -2,17 +2,17 @@
 title: "Add Google SSO"
 points: 21
 difficulty: complex
-tags: 
-- google
-- authentication
-- sso
+tags:
+  - google
+  - authentication
+  - sso
 dependencies:
 unlocks:
 ---
 
 ## Description:
 
-Implement the full end-to-end Google Single Sign on flow. 
+Implement the full end-to-end Google Single Sign on flow.
 
 Here is a [tutorial](https://blog.logrocket.com/guide-adding-google-login-react-app/) that will help you get started.
 

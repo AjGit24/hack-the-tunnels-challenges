@@ -2,12 +2,12 @@
 title: "Responsive Product Page"
 points: 2
 difficulty: medium
-tags: 
-- frontend
-- css
-- react
+tags:
+  - frontend
+  - css
+  - react
 dependencies:
-- style-product-page
+  - style-product-page
 unlocks:
 ---
 

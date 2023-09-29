@@ -2,13 +2,13 @@
 title: "Improve Product Preview Card Component"
 points: 2
 difficulty: beginner-friendly
-tags: 
-- frontend
-- css
-- start-here
+tags:
+  - frontend
+  - css
+  - start-here
 dependencies:
 unlocks:
-- update-checkout-page
+  - update-checkout-page
 ---
 
 ## Description:

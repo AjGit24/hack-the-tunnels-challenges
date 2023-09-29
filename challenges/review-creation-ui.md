@@ -2,11 +2,11 @@
 title: "Review Creation UI"
 points: 3
 difficulty: medium
-tags: 
-- frontend
-- react
+tags:
+  - frontend
+  - react
 dependencies:
-- create-review-endpoint
+  - create-review-endpoint
 unlocks:
 ---
 
@@ -18,4 +18,4 @@ Utilize the `POST /reviews` endpoint you created in the previous challenge to ad
 
 ## Acceptance Criteria:
 
-The user can create a review of the product via the product's page. 
+The user can create a review of the product via the product's page.

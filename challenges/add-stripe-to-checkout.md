@@ -2,9 +2,9 @@
 title: "Add Stripe to checkout"
 points: 21
 difficulty: complex
-tags: 
-- stripe
-- end-to-end
+tags:
+  - stripe
+  - end-to-end
 dependencies:
 unlocks:
 ---

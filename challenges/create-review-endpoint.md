@@ -2,13 +2,13 @@
 title: "Create Review Endpoint"
 points: 3
 difficulty: medium
-tags: 
-- backend
-- express
+tags:
+  - backend
+  - express
 dependencies:
-- add-reviews-table
+  - add-reviews-table
 unlocks:
-- review-creation-ui
+  - review-creation-ui
 ---
 
 ## Description:
@@ -16,6 +16,7 @@ unlocks:
 Create an endpoint for creating a product review. (`POST /reviews`)
 
 You will need to add the following files:
+
 - `service/src/infrastructure/api/routes/reviews.ts`
 - `service/src/services/Reviews.ts`
 
@@ -44,4 +45,3 @@ If `text` or `rating` are missing, an appropriate error message is returned.
 If `productId` is not found, an appropriate error message is returned.
 
 Otherwise, the created product should be returned.
-

@@ -2,14 +2,14 @@
 title: "Update Checkout Page"
 points: 2
 difficulty: beginner-friendly
-tags: 
-- frontend
-- react
-- start-here
+tags:
+  - frontend
+  - react
+  - start-here
 dependencies:
 unlocks:
-- add-stripe-to-checkout
-- add-carts-feature
+  - add-stripe-to-checkout
+  - add-carts-feature
 ---
 
 ## Description:

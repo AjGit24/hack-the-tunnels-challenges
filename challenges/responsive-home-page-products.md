@@ -2,10 +2,10 @@
 title: "Responsive Home Page Products"
 points: 2
 difficulty: beginner-friendly
-tags: 
-- frontend
-- css
-- start-here
+tags:
+  - frontend
+  - css
+  - start-here
 dependencies:
 unlocks:
 ---

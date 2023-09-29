@@ -2,9 +2,9 @@
 title: "Push To Webhook On Order Create"
 points: 8
 difficulty: complex
-tags: 
-- backend
-- webhooks
+tags:
+  - backend
+  - webhooks
 dependencies:
 unlocks:
 ---
@@ -17,7 +17,7 @@ Add a new `webhooks` folder within the `service/src/infrastructure` folder that 
 
 Read the [following guide](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) to learn how to get the webhook endpoint of a Discord channel.
 
-POST-ing to this Discord channel webhook endpoint will create a message in the desired channel. 
+POST-ing to this Discord channel webhook endpoint will create a message in the desired channel.
 
 To complete this challenge, provide proof that you have succesfully sent an "order created" related message to your desired webhook endpoint.
 

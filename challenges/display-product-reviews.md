@@ -2,11 +2,11 @@
 title: "Display Product Reviews"
 points: 2
 difficulty: medium
-tags: 
-- frontend
-- react
+tags:
+  - frontend
+  - react
 dependencies:
-- add-reviews-to-product-endpoint
+  - add-reviews-to-product-endpoint
 unlocks:
 ---
 
@@ -17,5 +17,3 @@ Now that reviews are returned as part of the `GET /products/:id` endpoint, use t
 ## Acceptance Criteria:
 
 The reviews associated with a product are shown on the product's page.
-
-

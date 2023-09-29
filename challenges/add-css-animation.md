@@ -2,10 +2,10 @@
 title: "Add CSS Animation"
 points: 5
 difficulty: medium
-tags: 
-- frontend
-- css
-- start-here
+tags:
+  - frontend
+  - css
+  - start-here
 dependencies:
 unlocks:
 ---
@@ -19,4 +19,3 @@ Include a screenshot so the validator of this challenge knows where to find your
 ## Acceptance Criteria:
 
 The participant has utilized CSS animations in some way.
-

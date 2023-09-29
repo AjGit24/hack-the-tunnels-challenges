@@ -2,18 +2,18 @@
 title: "Get Products Search Term"
 points: 3
 difficulty: medium
-tags: 
-- backend
-- express
+tags:
+  - backend
+  - express
 dependencies:
 unlocks:
-- add-products-search-to-home-page
-- get-products-elastic-search
+  - add-products-search-to-home-page
+  - get-products-elastic-search
 ---
 
 ## Description:
 
-Modify the `GET /products` endpoint to optionally take a query parameter called `searchTerm`. 
+Modify the `GET /products` endpoint to optionally take a query parameter called `searchTerm`.
 
 Ex: `GET /products?searchTerm=example`.
 

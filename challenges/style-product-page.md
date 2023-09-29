@@ -2,13 +2,13 @@
 title: "Style Product Page"
 points: 3
 difficulty: medium
-tags: 
-- frontend
-- react
-- start-here
+tags:
+  - frontend
+  - react
+  - start-here
 dependencies:
 unlocks:
-- responsive-product-page
+  - responsive-product-page
 ---
 
 ## Description:
@@ -26,4 +26,3 @@ Here is an example of a two column page layout from Amazon:
 ## Acceptance Criteria:
 
 Participants have the freedom to do whatever they'd like so long as they create a layout with two columns with the product image in the left column and product details in the right column.
-

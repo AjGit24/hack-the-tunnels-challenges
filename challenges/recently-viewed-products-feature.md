@@ -2,10 +2,10 @@
 title: "Recently Viewed Products Feature"
 points: 8
 difficulty: complex
-tags: 
-- frontend
-- cookies
-- react
+tags:
+  - frontend
+  - cookies
+  - react
 dependencies:
 unlocks:
 ---
@@ -20,7 +20,7 @@ To create this feature, save the data from each product you in cookies to later 
 
 When the user navigates to a product page, utilize the `useCookies` hook from the [`react-cookie`](https://www.npmjs.com/package/react-cookie) library to access the `setCookie`, `updateCookies`, and `removeCookie` functions and set the desired product information in cookies.
 
-On `client/src/pages/Home/Home.tsx`, utilize the stored product information stored in cookies to populate a new section called "Recently Viewed Products". 
+On `client/src/pages/Home/Home.tsx`, utilize the stored product information stored in cookies to populate a new section called "Recently Viewed Products".
 
 ## Acceptance Criteria:
 

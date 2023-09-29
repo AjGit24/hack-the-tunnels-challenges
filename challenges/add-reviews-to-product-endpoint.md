@@ -2,16 +2,16 @@
 title: "Add Reviews To Product Endpoint"
 points: 2
 difficulty: medium
-tags: 
-- backend
-- express
-- prisma
-- databases
+tags:
+  - backend
+  - express
+  - prisma
+  - databases
 dependencies:
-- add-reviews-table
+  - add-reviews-table
 unlocks:
-- cache-product-data
-- display-product-reviews
+  - cache-product-data
+  - display-product-reviews
 ---
 
 ## Description:
