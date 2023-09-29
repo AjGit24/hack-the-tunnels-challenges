@@ -28,7 +28,7 @@ npm install
 
 3. Copy `.env.sample`
 
-Create a copy of the `.env.sample` file. and rename the file's name to `.env`.
+Create a copy of the `.env.sample` file and rename the file's name to `.env`.
 
 
 4. Run the client
@@ -53,7 +53,7 @@ npm install
 
 3. Copy `.env.sample`
 
-Create a copy of the `.env.sample` file. and rename the file's name to `.env`.
+Create a copy of the `.env.sample` file and rename the file's name to `.env`.
 
 4. Run Migrations
 
@@ -86,7 +86,7 @@ npm run dev
 
 - `service/src/infrastructure/api/router.ts`: Main router location
 - `service/src/infrastructure/api/routes`: Where all other routers are stored
-- `service/src/services`: Services are where business logic lives
+- `service/src/services`: Services are where business logic live
 - `service/src/infrastructure/db/schema.prisma`: This file is utilized by the Prisma ORM to generate migrations and types
 
 # Key Words
