@@ -22,7 +22,7 @@ Some possible ideas for charts could be:
 - Revenue over time
 - User activity over time
 
-You can use an existing endpoint or create a new endpoint to expose the neccesary data you want for your chart.
+You can use an existing endpoint or create a new endpoint to expose the necessary data you want for your chart.
 
 ## Acceptance Criteria:
 

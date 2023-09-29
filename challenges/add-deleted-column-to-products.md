@@ -17,7 +17,9 @@ Add a new boolean column named `deleted` on the products table.
 
 This column will be used to build a ["Soft Delete"](https://www.jmix.io/blog/to-delete-or-to-soft-delete-that-is-the-question/) mechanism for products.
 
-We need this soft delete mechanism because if we we're to attempt to delete a product being referenced in other table entries, it would require us to delete those associated entries or cause a foreign key violation.
+We need this soft delete mechanism because if we attempted to delete a product
+being referenced in other table entries, it would require us to delete those
+associated entries. Otherwise, it would cause a foreign key violation.
 
 Create and run a migration that adds the `deleted` column to products. It should have a default value of `false`.
 
