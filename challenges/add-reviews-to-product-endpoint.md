@@ -6,7 +6,7 @@ tags:
 - backend
 - express
 - prisma
-- databses
+- databases
 dependencies:
 - add-reviews-table
 unlocks:
@@ -35,4 +35,4 @@ The response body should appear similar to the following:
         }
     error: ...
 }
-`
+```
