@@ -10,9 +10,14 @@ dependencies:
 unlocks:
 - add-font-style
 - add-404-page
+- style-product-page
 - add-footer-component
 - add-navbar-component
 - style-page-component
+- add-login-page-form
+- recently-viewed-products-feature
+- add-partial-dark-mode
+- add-chart-to-admin-page
 ---
 
 ## Description:

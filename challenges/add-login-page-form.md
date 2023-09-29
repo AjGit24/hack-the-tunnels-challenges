@@ -8,6 +8,9 @@ tags:
 - css
 - start-here
 dependencies:
+unlocks: 
+- add-sign-up-page-form
+- add-google-sso
 ---
 
 ## Description:

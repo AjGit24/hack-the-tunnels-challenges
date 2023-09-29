@@ -8,6 +8,8 @@ tags:
 - css
 - start-here
 dependencies:
+unlocks:
+- add-search-bar-component
 ---
 
 ## Description:

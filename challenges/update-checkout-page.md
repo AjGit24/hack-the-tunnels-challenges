@@ -7,6 +7,9 @@ tags:
 - react
 - start-here
 dependencies:
+unlocks:
+- add-stripe-to-checkout
+- add-carts-feature
 ---
 
 ## Description:
