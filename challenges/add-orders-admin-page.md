@@ -9,6 +9,7 @@ tags:
 - integration
 dependencies:
 - get-orders-endpoint
+unlocks:
 ---
 
 ## Description:

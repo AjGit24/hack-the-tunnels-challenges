@@ -10,6 +10,7 @@ tags:
 - key-value
 dependencies:
 - add-reviews-to-product-endpoint
+unlocks:
 ---
 
 ## Description:

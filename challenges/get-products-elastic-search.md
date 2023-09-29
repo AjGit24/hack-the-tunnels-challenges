@@ -8,6 +8,7 @@ tags:
 - lucene
 dependencies:
 - get-products-search-term
+unlocks:
 ---
 
 ## Description:

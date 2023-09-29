@@ -6,6 +6,7 @@ tags:
 - backend
 - cron-job
 dependencies:
+unlocks:
 ---
 
 ## Description:

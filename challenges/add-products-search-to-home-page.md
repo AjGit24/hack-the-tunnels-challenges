@@ -1,13 +1,15 @@
 ---
 title: "Add Products Search To Home Page"
 points: 5
+difficulty: medium
 tags: 
 - frontend
 - css
 - react
 dependencies:
 - add-search-bar-component
-- get-products-search-term.md
+- get-products-search-term
+unlocks:
 ---
 
 ## Description:

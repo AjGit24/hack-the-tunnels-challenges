@@ -1,11 +1,13 @@
 ---
 title: "Update Product Endpoint"
 points: 3
+difficulty: beginner-friendly
 tags: 
 - backend
 - express
 - authorization
 dependencies:
+unlocks:
 ---
 
 ## Description:

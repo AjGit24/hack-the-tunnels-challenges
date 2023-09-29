@@ -1,11 +1,13 @@
 ---
 title: "Add Sign Up Page Form"
 points: 5
+difficulty: medium
 tags: 
 - frontend
 - react
 - css
 dependencies:
+unlocks:
 ---
 
 ## Description:

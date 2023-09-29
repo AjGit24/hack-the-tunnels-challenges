@@ -6,6 +6,7 @@ tags:
 - frontend
 - css
 dependencies:
+unlocks:
 ---
 
 ## Description:

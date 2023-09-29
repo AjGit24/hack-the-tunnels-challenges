@@ -6,6 +6,7 @@ tags:
 - backend
 - graphql
 dependencies:
+unlocks:
 ---
 
 ## Description:

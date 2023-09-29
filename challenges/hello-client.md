@@ -8,6 +8,8 @@ tags:
 - start-here
 dependencies:
 unlocks:
+- update-favicon.md
+- update-page-title
 - add-font-style
 - add-404-page
 - style-product-page

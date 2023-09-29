@@ -7,6 +7,7 @@ tags:
 - authentication
 - sso
 dependencies:
+unlocks:
 ---
 
 ## Description:

@@ -7,6 +7,7 @@ tags:
 - react
 dependencies:
 - create-review-endpoint
+unlocks:
 ---
 
 ## Description:

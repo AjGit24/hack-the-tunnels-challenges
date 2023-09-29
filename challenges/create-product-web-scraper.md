@@ -6,6 +6,7 @@ tags:
 - backend
 - web-scraper
 dependencies:
+unlocks:
 ---
 
 ## Description:

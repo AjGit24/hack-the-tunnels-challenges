@@ -8,6 +8,7 @@ tags:
 - react
 dependencies:
 - style-product-page
+unlocks:
 ---
 
 ## Description:

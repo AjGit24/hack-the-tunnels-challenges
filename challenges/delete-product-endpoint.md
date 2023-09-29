@@ -8,6 +8,7 @@ tags:
 - authorization
 dependencies:
 - add-deleted-column-to-products
+unlocks:
 ---
 
 ## Description:
