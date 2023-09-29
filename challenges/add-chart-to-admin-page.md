@@ -1,6 +1,7 @@
 ---
 title: "Add Chart To Admin Page"
 points: 5
+difficulty: medium
 tags: 
 - frontend
 - css

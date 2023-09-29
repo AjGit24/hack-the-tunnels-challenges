@@ -1,6 +1,7 @@
 ---
 title: "Delete Product Endpoint"
 points: 3
+difficulty: medium
 tags: 
 - backend
 - express

@@ -1,6 +1,7 @@
 ---
 title: "Send Email On Order Create"
 points: 8
+difficulty: complex
 tags: 
 - backend
 - email

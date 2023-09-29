@@ -1,6 +1,7 @@
 ---
 title: "Add Partial Dark Mode"
 points: 3
+difficulty: medium
 tags: 
 - frontend
 - css

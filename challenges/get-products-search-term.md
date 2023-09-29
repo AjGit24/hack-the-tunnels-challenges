@@ -1,6 +1,7 @@
 ---
 title: "Get Products Search Term"
 points: 3
+difficulty: medium
 tags: 
 - backend
 - express

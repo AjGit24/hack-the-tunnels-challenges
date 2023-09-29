@@ -1,6 +1,7 @@
 ---
 title: "Add GraphQL API"
 points: 13
+difficulty: complex
 tags: 
 - backend
 - graphql

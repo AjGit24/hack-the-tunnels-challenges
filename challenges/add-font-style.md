@@ -1,6 +1,7 @@
 ---
 title: "Update Font Style"
 points: 1
+difficulty: beginner-friendly
 tags: 
 - frontend
 - css

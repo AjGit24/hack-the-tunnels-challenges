@@ -1,6 +1,7 @@
 ---
 title: "Add Deleted Column To Products"
 points: 2
+difficulty: beginner-friendly
 tags: 
 - backend
 - databases

@@ -1,6 +1,7 @@
 ---
 title: "Add Pagination To Products Endpoint"
 points: 13
+difficulty: complex
 tags: 
 - backend
 - express

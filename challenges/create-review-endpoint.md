@@ -1,6 +1,7 @@
 ---
 title: "Create Review Endpoint"
 points: 3
+difficulty: medium
 tags: 
 - backend
 - express

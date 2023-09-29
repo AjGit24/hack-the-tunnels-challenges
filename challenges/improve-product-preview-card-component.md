@@ -1,6 +1,7 @@
 ---
 title: "Improve Product Preview Card Component"
 points: 2
+difficulty: beginner-friendly
 tags: 
 - frontend
 - css

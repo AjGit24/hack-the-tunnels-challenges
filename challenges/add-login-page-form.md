@@ -1,6 +1,7 @@
 ---
 title: "Add Login Page Form"
 points: 3
+difficulty: beginner-friendly
 tags: 
 - frontend
 - react

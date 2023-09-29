@@ -1,6 +1,7 @@
 ---
 title: "Add Google SSO"
 points: 21
+difficulty: complex
 tags: 
 - google
 - authentication

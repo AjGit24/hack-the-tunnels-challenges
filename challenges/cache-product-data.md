@@ -1,6 +1,7 @@
 ---
 title: "Cache Product Data"
 points: 8
+difficulty: complex
 tags: 
 - backend
 - express

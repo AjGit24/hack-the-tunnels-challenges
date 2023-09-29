@@ -1,6 +1,7 @@
 ---
 title: "Add Footer Component"
 points: 2
+difficulty: beginner-friendly
 tags: 
 - frontend
 - react

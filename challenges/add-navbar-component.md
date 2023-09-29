@@ -1,6 +1,7 @@
 ---
 title: "Add Navbar Component"
 points: 3
+difficulty: beginner-friendly
 tags: 
 - frontend
 - react

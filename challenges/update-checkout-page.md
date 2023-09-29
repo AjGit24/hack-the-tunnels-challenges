@@ -1,6 +1,7 @@
 ---
 title: "Update Checkout Page"
 points: 2
+difficulty: beginner-friendly
 tags: 
 - frontend
 - react

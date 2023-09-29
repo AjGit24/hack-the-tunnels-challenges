@@ -1,6 +1,7 @@
 ---
 title: "Scheduled Orders Report"
 points: 13
+difficulty: complex
 tags: 
 - backend
 - cron-job

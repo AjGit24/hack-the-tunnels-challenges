@@ -1,6 +1,7 @@
 ---
 title: "Review Creation UI"
 points: 3
+difficulty: medium
 tags: 
 - frontend
 - react

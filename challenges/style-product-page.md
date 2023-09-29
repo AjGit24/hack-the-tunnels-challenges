@@ -1,6 +1,7 @@
 ---
 title: "Style Product Page"
 points: 3
+difficulty: medium
 tags: 
 - frontend
 - react

@@ -1,6 +1,7 @@
 ---
 title: "Add Reviews Table"
 points: 3
+difficulty: beginner-friendly
 tags: 
 - backend
 - prisma

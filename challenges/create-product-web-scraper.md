@@ -1,6 +1,7 @@
 ---
 title: "Create Product Web Scraper"
 points: 8
+difficulty: complex
 tags: 
 - backend
 - web-scraper

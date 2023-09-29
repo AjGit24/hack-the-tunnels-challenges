@@ -1,6 +1,7 @@
 ---
 title: "Get Products Elastic Search"
 points: 13
+difficulty: complex
 tags: 
 - backend
 - elastic-search

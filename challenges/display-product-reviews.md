@@ -1,6 +1,7 @@
 ---
 title: "Display Product Reviews"
 points: 2
+difficulty: medium
 tags: 
 - frontend
 - react

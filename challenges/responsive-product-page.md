@@ -1,6 +1,7 @@
 ---
 title: "Responsive Product Page"
 points: 2
+difficulty: medium
 tags: 
 - frontend
 - css

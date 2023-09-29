@@ -1,6 +1,7 @@
 ---
 title: "Add CSS Animation"
 points: 5
+difficulty: medium
 tags: 
 - frontend
 - css

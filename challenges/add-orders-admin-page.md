@@ -1,6 +1,7 @@
 ---
 title: "Add Orders Admin Page"
 points: 3
+difficulty: medium
 tags: 
 - frontend
 - react

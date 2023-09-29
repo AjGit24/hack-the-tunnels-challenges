@@ -1,8 +1,11 @@
 ---
 title: "Add Carts Feature"
 points: 21
+difficulty: complex
 tags: 
 - carts
+- multiple-solution
+- end-to-end
 dependencies:
 ---
 

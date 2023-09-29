@@ -1,6 +1,7 @@
 ---
 title: "Push To Webhook On Order Create"
 points: 8
+difficulty: complex
 tags: 
 - backend
 - webhooks

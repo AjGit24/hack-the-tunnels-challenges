@@ -1,6 +1,7 @@
 ---
 title: "Add Banner Component"
 points: 2
+difficulty: beginner-friendly
 tags: 
 - frontend
 - css
