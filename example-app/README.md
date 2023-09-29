@@ -55,13 +55,19 @@ npm install
 
 Create a copy of the `.env.sample` file. and rename the file's name to `.env`.
 
-4. Add the Seed Data
+4. Run Migrations
+
+```
+npx prisma migrate dev
+```
+
+5. Add the Seed Data
 
 ```
 npx prisma db seed
 ```
 
-4. Run the service
+6. Run the service
 
 ```
 npm run dev
