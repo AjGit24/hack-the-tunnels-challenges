@@ -16,7 +16,7 @@ unlocks:
 
 ## Description:
 
-Modify the `GET /products/:id` endpoint also return the reviews associated with the product.
+Modify the `GET /products/:id` endpoint to also return the reviews associated with the product.
 
 You will need to modify the `find` function on `service/src/services/Product.ts` to additionally load the product's associated reviews. [This guide](https://www.prisma.io/docs/concepts/components/prisma-client/relation-queries) details how you can do this.
 

@@ -16,7 +16,7 @@ On the home page, the customer should be able to see a list of their most recent
 
 ![example](https://i.imgur.com/nGYToY7.png)
 
-To create this feature, save the data from each product you in cookies to later surface on the home page.
+To create this feature, save the data from each product you visit in cookies to later surface on the home page.
 
 When the user navigates to a product page, utilize the `useCookies` hook from the [`react-cookie`](https://www.npmjs.com/package/react-cookie) library to access the `setCookie`, `updateCookies`, and `removeCookie` functions and set the desired product information in cookies.
 

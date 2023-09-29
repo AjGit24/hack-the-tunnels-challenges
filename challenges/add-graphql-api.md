@@ -11,7 +11,7 @@ unlocks:
 
 ## Description:
 
-Create the beginnings of a [GraphQL](https://graphql.org/) API for the service. This GraphQL API will be exposed on the route `POST /api/graphql`.
+Create a [GraphQL](https://graphql.org/) API for the service. This GraphQL API will be exposed on the route `POST /api/graphql`.
 
 To satisfy this challenge create atleast one GraphQL query and one GraphQL mutation.
 

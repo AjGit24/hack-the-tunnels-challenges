@@ -20,4 +20,4 @@ Utilize the [gap CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/
 
 ## Acceptance Criteria:
 
-Products are now appear in rows and or a grid instead of one verticle column. Products should wrap onto multiple lines when the width of the page is updated.
+Products now appear in rows and or a grid instead of one verticle column. Products should wrap onto multiple lines when the width of the page is updated.

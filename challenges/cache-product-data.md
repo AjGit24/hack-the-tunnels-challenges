@@ -27,4 +27,4 @@ If the product is not in the key-value store, complete the lookup via the databa
 
 ## Acceptance Criteria:
 
-The user has added setup a connection with the cache of their choice and has modfied the product service to cache products and their reviews together.
+The user has setup a connection with the cache of their choice and has modfied the product service to cache products and their reviews together.

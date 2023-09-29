@@ -11,7 +11,7 @@ unlocks:
 
 ## Description:
 
-When an Order is create, we should send a message to a [webhook](https://www.redhat.com/en/topics/automation/what-is-a-webhook) endpoint of your choosing.
+When an Order is created, we should send a message to a [webhook](https://www.redhat.com/en/topics/automation/what-is-a-webhook) endpoint of your choosing.
 
 Add a new `webhooks` folder within the `service/src/infrastructure` folder that contains any code you write relating to pushing information to webhooks.
 

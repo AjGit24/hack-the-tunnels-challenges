@@ -17,7 +17,7 @@ unlocks:
 
 Checkout: `client/src/pages/Login/Login.tsx`
 
-Right now the login page does not have anyway to input the desired email and password of the the user logging in.
+The login page you see right now doesn't have the spaces where you can type in your email and password.
 
 Create an input box for email and and [input](https://www.w3schools.com/tags/tag_input.asp) box for password.
 
