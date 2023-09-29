@@ -7,6 +7,8 @@ tags:
 - css
 - start-here
 dependencies:
+unlocks:
+- update-checkout-page
 ---
 
 ## Description:

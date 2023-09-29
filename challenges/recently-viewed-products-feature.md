@@ -1,6 +1,7 @@
 ---
 title: "Recently Viewed Products Feature"
 points: 8
+difficulty: complex
 tags: 
 - frontend
 - cookies

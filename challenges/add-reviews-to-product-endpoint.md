@@ -1,6 +1,7 @@
 ---
 title: "Add Reviews To Product Endpoint"
 points: 2
+difficulty: medium
 tags: 
 - backend
 - express
@@ -8,6 +9,9 @@ tags:
 - databses
 dependencies:
 - add-reviews-table
+unlocks:
+- cache-product-data
+- display-product-reviews
 ---
 
 ## Description:

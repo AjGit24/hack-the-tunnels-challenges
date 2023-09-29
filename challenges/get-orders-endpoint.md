@@ -7,6 +7,8 @@ tags:
 - express
 - authorization
 dependencies:
+unlocks:
+- add-orders-admin-page
 ---
 
 ## Description:

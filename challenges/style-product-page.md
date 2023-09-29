@@ -7,6 +7,8 @@ tags:
 - react
 - start-here
 dependencies:
+unlocks:
+- responsive-product-page
 ---
 
 ## Description:

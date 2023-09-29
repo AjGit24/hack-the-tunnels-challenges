@@ -7,6 +7,9 @@ tags:
 - prisma
 - databases
 dependencies:
+unlocks:
+- add-reviews-to-product-endpoint
+- create-review-endpoint
 ---
 
 ## Description:

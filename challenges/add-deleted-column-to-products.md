@@ -7,6 +7,8 @@ tags:
 - databases
 - prisma
 dependencies:
+unlocks:
+- delete-product-endpoint
 ---
 
 ## Description:

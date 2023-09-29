@@ -7,6 +7,12 @@ tags:
 - react
 - start-here
 dependencies:
+unlocks:
+- add-font-style
+- add-404-page
+- add-footer-component
+- add-navbar-component
+- style-page-component
 ---
 
 ## Description:

@@ -6,6 +6,9 @@ tags:
 - backend
 - express
 dependencies:
+unlocks:
+- add-products-search-to-home-page
+- get-products-elastic-search
 ---
 
 ## Description:

@@ -7,6 +7,8 @@ tags:
 - express
 dependencies:
 - add-reviews-table
+unlocks:
+- review-creation-ui
 ---
 
 ## Description:

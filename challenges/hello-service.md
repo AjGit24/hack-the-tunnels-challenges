@@ -7,6 +7,11 @@ tags:
 - express
 - start-here
 dependencies:
+unlocks:
+- add-reviews-table
+- get-products-search-term
+- send-email-on-order-create
+- scheduled-orders-report
 ---
 
 ## Description:
