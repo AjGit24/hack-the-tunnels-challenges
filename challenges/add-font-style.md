@@ -1,5 +1,5 @@
 ---
-title: "Update Font Style"
+title: "Add Font Style"
 points: 1
 difficulty: beginner-friendly
 tags:
