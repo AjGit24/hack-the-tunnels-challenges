@@ -85,8 +85,8 @@ npm run dev
 
 - `service/src/infrastructure/api/router.ts`: Main router location
 - `service/src/infrastructure/api/routes`: Where all other routers are stored
-- `service/src/services`: Services are where business logic live
-- `service/src/infrastructure/db/schema.prisma`: This file is utilized by the Prisma ORM to generate migrations and types
+- `service/src/services`: On our website we might have specific tasks like making a product, buying a product, checking email and passwords, etc. "Services" are responsible for doing those specific tasks.
+- `service/src/infrastructure/db/schema.prisma`: Contains important information about how to create and organize things in our program. It's like a recipe book and Prisma(the software) follows the 'recipe' to create and organize data on our website.
 
 # Key Words
 
@@ -136,6 +136,14 @@ npm run dev
   - `role`: A string representing the role of the account (e.g., ADMIN, USER). ADMIN users have all permissions.
   - `createdAt`: A timestamp representing when the account was created.
   - `updatedAt`: A timestamp that is updated whenever the account information is modified.
+
+# Glossary
+
+- `auto-incremented`: This is used for `id`s. This means that each time a new product is added to a list, the id number goes up by one. So, if the last product had an id of 5, the next one will have an id of 6.
+- `routing`: Think of a city with many streets, each leading to a different place, like parks, schools, or stores. In a city, when you want to go from one place to another, you follow the right streets to get there. This process of finding your way to different places is a bit like routing.
+- `router`: In the world of technology, a "router" is like a guidebook that shows all the streets and places in the city. It's a tool that helps guide information from one place to another on the internet or in a computer program.
+- `API`: Imagine you have a machine that does many different tasks. The machine has special control panel with buttons that you can use to tell it what you want it to do. API(Application Programming Interface) is like the control panel between you and the machine. It allows you to do stuff to the machine(in this case, the database where you store information) like add stuff or remove stuff.
+- `primary key`: It's like a special tag or label that you put on each item in your collection to make sure you can always find it quickly. One example would be your student id.
 
 # More Useful Commands
 
