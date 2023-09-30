@@ -14,7 +14,7 @@ unlocks:
   - add-deleted-column-to-products
   - update-product-endpoint
   - add-pagination-to-products-endpoint
-  - add-graphql-api
+  - add-graph-ql-api
   - send-email-on-order-create
   - scheduled-orders-report
   - create-product-web-scraper
