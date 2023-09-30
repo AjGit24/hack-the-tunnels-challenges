@@ -22,6 +22,7 @@ unlocks:
   - recently-viewed-products-feature
   - add-partial-dark-mode
   - add-chart-to-admin-page
+  - improve-product-preview-card-component
 ---
 
 ## Description:
