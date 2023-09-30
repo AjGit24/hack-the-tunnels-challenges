@@ -25,7 +25,7 @@ Create a login button that when clicked fires the `attemptLogin` function.
 
 When this button is clicked, it should attempt to login using the email and password from the input boxes.
 
-If the user enters invalid crendials, you should set "message" using the `setMessage` function.
+If the user enters invalid credentials, you should set "message" using the `setMessage` function.
 
 ## Acceptance Criteria:
 

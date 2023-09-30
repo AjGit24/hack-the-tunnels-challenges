@@ -12,7 +12,7 @@ unlocks:
 
 ## Description:
 
-Implement the full end-to-end Google Single Sign on flow.
+Implement the full end-to-end Google Single Sign-On(SSO) flow.
 
 Here is a [tutorial](https://blog.logrocket.com/guide-adding-google-login-react-app/) that will help you get started.
 

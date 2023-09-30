@@ -26,6 +26,6 @@ Your page should utilize the `fetchOrders` function to request the order data. F
 
 ## Acceptance Criteria:
 
-When navigating to `/admin/orders` those who logged in can view all orders.
+When navigating to `/admin/orders` those who are logged in can view all orders.
 
 If not logged in, you will get redirected to `/`.

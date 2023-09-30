@@ -23,4 +23,4 @@ The default component:
 
 ## Acceptance Criteria:
 
-Some new styling and or content structure has been added to the component. Participants are given a lot of creative freedom, so litterally anything that is not the default `ProductPreviewcard` component earns them points here.
+Some new styling and or content structure has been added to the component. Participants are given a lot of creative freedom, so literally anything that is not the default `ProductPreviewcard` component earns them points here.

@@ -12,7 +12,7 @@ unlocks:
 
 ## Description:
 
-Utilize [Twillio](https://www.twilio.com/en-us) to send sms messages to customers when an order is created.
+Utilize [Twillio](https://www.twilio.com/en-us) to send SMS messages to customers when an order is created.
 
 _Note: we don't currently take phone number as a part of the create order request body, so feel free to hard the desired phone number_
 

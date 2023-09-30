@@ -14,7 +14,7 @@ unlocks:
 
 ## Description:
 
-Checkout: `client/src/components/Navbar` To get started.
+Checkout: `client/src/components/Navbar` to get started.
 
 Update the navbar component to meet the following specifications:
 
@@ -28,10 +28,10 @@ Update the navbar component to meet the following specifications:
 
 ## Acceptance Criteria:
 
-- Logo image should appear on left side. It should be reasonably sized (not huge / participant will probably need to give the image a width unless the image itself is small)
+- Logo image should appear on left side. It should be reasonably sized (not huge so the participant will probably need to give the image a width unless the image itself is small)
 
 - Navbar sticks to the top of page while scrolling down the page
 
-- buttons appear styled
+- Buttons appear styled
 
 - navbar elements do not touch the sides of the screen
